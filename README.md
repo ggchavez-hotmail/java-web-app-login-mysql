@@ -22,7 +22,7 @@ _Paso 1: levantar servicio mysql, verificar que se encuentra libre el puerto 808
 docker-compose up -d
 ```
 
-_Paso 2: ingresar al Administrador de la BD http://localhost:8082/ (root/root), seleccionar "datosjavawebapp" y crear tabla _
+_Paso 2: ingresar al Administrador de la BD http://localhost:8082/ (root/root), seleccionar "datosjavawebapp" y crear tabla_
 
 ```
 CREATE TABLE `javawebapp`.`user` (
@@ -44,7 +44,7 @@ INSERT INTO `user` (`id`, `fname`, `lname`, `login`, `password`, `dob`, `mobile`
 (2, 'roberto', 'bolagno', 'rbolagno', '1234', '1981-09-12', '98989898');
 ```
 
-_Paso 4: levantar proyecto java y acceder al local http://localhost:8080/proyecto_web/ _
+_Paso 4: levantar proyecto java y acceder al local http://localhost:8080/proyecto_web/_
 
 
 ![Alt text](./images/Imagen1.png "1")
