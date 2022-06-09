@@ -50,4 +50,15 @@ _Paso 4: levantar proyecto java y acceder al local http://localhost:8080/proyect
 ![Alt text](./images/Imagen1.png "1")
 
 
+## Construido con 🛠️
+
+_las siguientes herramientas_
+
+- JDK 8
+- Mysql (Docker mysql/mysql-server:5.6.25)
+- Docker/Docker-compose
+
+## Autor ✒️
+
+- **Gustavo Chavez** - _Todas las tareas_ - [ggchavez-hotmail](https://github.com/ggchavez-hotmail/)
 
