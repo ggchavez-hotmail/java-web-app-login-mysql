@@ -46,8 +46,8 @@ INSERT INTO `user` (`id`, `fname`, `lname`, `login`, `password`, `dob`, `mobile`
 
 _Paso 4: levantar proyecto java y acceder al local http://localhost:8080/proyecto_web/ _
 
-```
+
 ![Alt text](./images/Imagen1.png "1")
-```
+
 
 
