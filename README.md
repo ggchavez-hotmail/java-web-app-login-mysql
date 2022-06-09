@@ -36,7 +36,7 @@ CREATE TABLE `javawebapp`.`user` (
   PRIMARY KEY (`id`));
 ```
 
-_Paso 3: insertar datos de usuarios _
+_Paso 3: insertar datos de usuarios_
 
 ```
 INSERT INTO `user` (`id`, `fname`, `lname`, `login`, `password`, `dob`, `mobile`) VALUES
